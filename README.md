@@ -8,10 +8,11 @@ reparti e prezzi di mercato mentre i giocatori vengono battuti.
 
 ## Funzionalità
 
+- **Modalità Classic / Mantra** — selettore in alto. **Classic**: 850 crediti, rose da 30, ruoli P/D/C/A. **Mantra**: 500 crediti, rose da 29 (4 portieri + 25 di movimento), ruoli Mantra (Pc, A, T, W, C, M, E, B, Dc, Dd, Ds, Por). Le due aste hanno **stato salvato separato**: puoi passare dall'una all'altra senza perdere nulla.
 - **Gestione rosa e budget** — 850 crediti, rose da 30 (4 portieri, 9 difensori, 10 centrocampisti, 7 attaccanti)
 - **Target per reparto** con riequilibrio automatico del budget residuo
 - **XI suggerito** sui giocatori ancora disponibili, per modulo (3-4-3, 3-5-2, 4-3-3, 4-4-2, 4-5-1)
-- **Tracking dei rivali** — chi ha comprato cosa, residuo e reparti scoperti di ogni squadra
+- **Tracking dei rivali** — chi ha comprato cosa, residuo e reparti scoperti di ogni squadra (solo in Classic; in Mantra è nascosto: gli altri si segnano solo con «altri» per toglierli dai disponibili, senza squadra né prezzo)
 - **Statistiche di mercato live** — quanto si sta pagando rispetto al prezzo atteso, colpi più costosi
 - **Profili multipli** per gestire più aste separate
 - **Export CSV** e import da testo incollato
